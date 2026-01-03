@@ -1,7 +1,3 @@
-/**
- * 基于新一代网络优化平台的无线设备障碍主动分析定位系统
- * 核心数据处理引擎 - Java实现版本
- */
 package org.example.service;
 
 
@@ -22,6 +18,10 @@ import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 
 /**
+ * 基于新一代网络优化平台的无线设备障碍主动分析定位系统
+ * 核心数据处理引擎 - Java实现版本
+ *
+ *
  * 无线设备数据采集探针管理器
  * 负责分布式探针的数据采集和状态监控
  */
